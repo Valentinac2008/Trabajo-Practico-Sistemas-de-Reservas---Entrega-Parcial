@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexSpace.UI", "FlexSpace.UI\FlexSpace.UI.csproj", "{A1AD3D30-8B90-41B4-9A64-33ADB37E7B74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1AD3D30-8B90-41B4-9A64-33ADB37E7B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1AD3D30-8B90-41B4-9A64-33ADB37E7B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1AD3D30-8B90-41B4-9A64-33ADB37E7B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1AD3D30-8B90-41B4-9A64-33ADB37E7B74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87A61AD8-B839-45FA-A8DA-9AC81E70F59D}
+	EndGlobalSection
+EndGlobal
