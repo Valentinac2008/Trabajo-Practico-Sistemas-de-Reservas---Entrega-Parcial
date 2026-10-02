@@ -1,1 +1,2 @@
 # Trabajo-Practico-Sistemas-de-Reservas---Entrega-Parcial
+Hasta el momento hice la estructura inicial del trabajo. Completé la capa de negocio con sus entidades, enumeraciones, clases de negocio y la excepción para clientes sancionados. También comencé a trabajar en la capa de datos agregué la clase de conexión a MySQL y complete la clase ClienteDatos con sus consultas para buscar clientes y listar los clientes sancionados. La conexión entre las capas y el resto de las consultas de la base de datos quedan pendientes
